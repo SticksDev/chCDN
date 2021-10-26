@@ -1,11 +1,11 @@
 import React from 'react';
 
-import HttpCodesCustom1 from '../components-custom/HttpCodesCustom1';
+import SignInCustom1 from '../components-custom/SignInCustom1';
 
 export default function Index() {
   return (
     <React.Fragment>
-      <HttpCodesCustom1 />
+      <SignInCustom1 />
     </React.Fragment>
   );
 }
